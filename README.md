@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Harikrishnan
 
-I'm a passionate **Front-End Web Developer** with **2.5 years** of experience in creating high-performance, responsive web applications. Skilled in **React JS**, **TypeScript**, and **REST API** integration, I’m driven to build engaging user interfaces, optimize performance, and solve complex problems in web development. 
+I'm a passionate **Front-End Web Developer** with **3 years** of experience in creating high-performance, responsive web applications. Skilled in **React JS**, **TypeScript**, and **REST API** integration, I’m driven to build engaging user interfaces, optimize performance, and solve complex problems in web development. 
 
 ---
 
