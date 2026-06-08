@@ -159,14 +159,6 @@ I'm a **Frontend Developer with 4+ years of experience** specializing in **React
 - 📱 Responsive design tested across multiple devices and browsers
 - ♻️ Code refactored for optimized load times and maintainability
 
-#### 🔹 DBS Bank – Enterprise Front-End Project *(Wipro, Apr 2022 – Sep 2024)*
-> Large-scale banking web application built with React.js and TypeScript.
-
-- ⚛️ Specialized in **React.js with TypeScript**, API integration, and **Micro Frontend (MFE)** architecture
-- 📊 Implemented **Adobe Analytics** for page tracking and data-driven UX insights
-- 🔒 Ensured secure data handling and compliance in a banking environment
-- 🧪 Maintained high unit test coverage through **Jest** and **React Testing Library**
-
 ---
 
 ### 🎖️ Achievements & Awards
@@ -176,18 +168,6 @@ I'm a **Frontend Developer with 4+ years of experience** specializing in **React
 | 🥇 **Performance of the Month** | Infinite Computer Solutions | Sep 2025 | Recognized for delivering high-quality work on time and supporting team success on the Verizon project |
 | 🌟 **Outstanding Performer – Q2 FY'24** | Wipro HR | 2024 | Awarded for consistent excellence and dedication on the DBS Bank project |
 | 🏆 **Star Performance Award** | Wipro (Client Manager) | 2023 | Recognized for exceptional contributions, dedication, and on-time delivery at DBS Bank |
-
----
-
-### 🤝 Recommendations
-
-> *"I had the pleasure of working with Harikrishnan and am continually impressed by his expertise as a React developer. He has a deep understanding of component design, state management, and front-end best practices, consistently delivering clean, efficient, and well-documented code. Harikrishnan is proactive in tackling challenges, solving complex issues effectively, and optimizing for performance where possible. He excels at collaboration and communication, easily working with cross-functional teams to build user-centered solutions."*
->
-> — **Roshini G**, Certified Pega Developer | DBS Bank Teammate
-
-> *"His strong work ethic and dedication to collaboration fostered a positive team environment, inspiring those around him to strive for excellence. Hari's analytical mindset and attention to detail greatly contributed to our project's success."*
->
-> — **Joshnaa V**, Associate System Engineer at IBM | DBS Bank Teammate
 
 ---
 
@@ -237,9 +217,10 @@ I'm a **Frontend Developer with 4+ years of experience** specializing in **React
 
 <div align="center">
 
-![Harikrishnan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HariKrishnan2k18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HariKrishnan2k18&layout=compact&theme=tokyonight&hide_border=true)
+<a href="https://github.com/HariKrishnan2k18">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HariKrishnan2k18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HariKrishnan2k18&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</a>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=HariKrishnan2k18&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
